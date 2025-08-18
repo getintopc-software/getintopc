@@ -4,7 +4,7 @@ GetIntoPC is a software website available online, liked by millions of people ar
 
 <p align="center">
   <a href="https://getintopc.wiki">
-    <img src="https://img.shields.io/badge/getintopc.wiki-Getintopc-blue?style=for-the-badge" alt="Visit Getintopc">
+    <img src="https://img.shields.io/badge/Visit Getintopc-Getintopc-blue?style=for-the-badge" alt="Visit Getintopc">
   </a>
 </p>
 
