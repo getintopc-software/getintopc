@@ -3,7 +3,7 @@ Get Into PC - Free Download Your Desired PC Softwares 2025
 GetIntoPC is a software website available online, liked by millions of people around the world. If you're interested in special content and small packages for your computer, just like me and many others, you might have discovered this website several times. It is a well-maintained platform and is the place for the whole website to contain extremely useful items and packages. It is a software website that focuses on exclusive content related to general issues and specialized technology; you can readily solve your computer-related issues. 
 
 <p align="center">
-  <a href="https://go.wps.com/a8w6hRJJA4T6?fpr=d249p5">
+  <a href="https://getintopc.cyou">
     <img src="https://img.shields.io/badge/Visit Getintopc-Getintopc-blue?style=for-the-badge" alt="Visit Getintopc">
   </a>
 </p>
